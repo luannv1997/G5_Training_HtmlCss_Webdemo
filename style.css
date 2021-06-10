@@ -1,0 +1,45 @@
+.bg-header {
+    background-color: rgba(41, 26, 108, 0.9);
+}
+
+header {
+    height: 500px;
+    width: 100%;
+}
+
+.navbar-brand img {
+    height: 91;
+    width: 166px;
+}
+.img-1{
+    left: 50%;
+    top: 49%;
+}
+.img-2{
+    left: 10%;
+    top: 56%;
+}
+.img-3{
+    left: 0%;
+    top: 89%;
+}
+.img-4{
+    left: 25%;
+    top: 70%;
+}
+.img-5{
+    left: 55%;
+    top: 59%;
+}
+.img-6{
+    left: 65%;
+    top: 50%;
+}
+.img-custom-size {
+    height: 60px; 
+    width: 60px;
+}
+
+.scale-img-custom:hover {
+    transform: scale(1.3);
+}
